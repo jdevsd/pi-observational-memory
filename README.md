@@ -62,7 +62,7 @@ pi install npm:pi-observational-memory
 Or from GitHub:
 
 ```bash
-pi install git:github.com/elpapi42/pi-observational-memory
+pi install git:github.com/jdevsd/pi-observational-memory
 ```
 
 That's it. The extension hooks into Pi's lifecycle automatically. Defaults work well for most sessions — no config file needed to start.
