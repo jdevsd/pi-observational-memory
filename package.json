@@ -7,9 +7,9 @@
   "author": "elpapi42",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elpapi42/pi-observational-memory.git"
+    "url": "git+https://github.com/jdevsd/pi-observational-memory.git"
   },
-  "homepage": "https://github.com/elpapi42/pi-observational-memory#readme",
+  "homepage": "https://github.com/jdevsd/pi-observational-memory#readme",
   "keywords": [
     "pi",
     "pi-agent",
@@ -34,16 +34,16 @@
     "test": "vitest run"
   },
   "peerDependencies": {
-    "@mariozechner/pi-agent-core": "*",
-    "@mariozechner/pi-ai": "*",
-    "@mariozechner/pi-coding-agent": "*",
-    "@mariozechner/pi-tui": "*"
+    "@earendil-works/pi-agent-core": "*",
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
   },
   "devDependencies": {
-    "@mariozechner/pi-agent-core": "^0.73.0",
-    "@mariozechner/pi-ai": "^0.73.0",
-    "@mariozechner/pi-coding-agent": "^0.73.0",
-    "@mariozechner/pi-tui": "^0.73.0",
+    "@earendil-works/pi-agent-core": "^0.73.0",
+    "@earendil-works/pi-ai": "^0.73.0",
+    "@earendil-works/pi-coding-agent": "^0.73.0",
+    "@earendil-works/pi-tui": "^0.73.0",
     "@types/node": "^22.0.0",
     "typebox": "^1.1.38",
     "typescript": "^5.6.0",
